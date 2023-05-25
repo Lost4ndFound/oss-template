@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.huadingyun.goods.oss.config.AliossConfiguration,\
+  cn.huadingyun.goods.oss.config.OssConfiguration,\
+  cn.huadingyun.goods.oss.config.AliossConfiguration,\
+  cn.huadingyun.goods.oss.config.MinioConfiguration,\
+  cn.huadingyun.goods.oss.config.TencentCosConfiguration,\
+  cn.huadingyun.goods.oss.config.OssAutoEnableConfig
