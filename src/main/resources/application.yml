@@ -1,0 +1,7 @@
+oss:
+  enable: true
+  name: minio
+  endpoint: url
+  access-key: xxxxx
+  secret-key: xxxx
+  bucketName: test
